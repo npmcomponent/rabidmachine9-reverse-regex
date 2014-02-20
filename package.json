@@ -1,0 +1,15 @@
+{
+  "name": "rabidmachine9-reverse-regex",
+  "description": "take regex as input, return a valid string",
+  "version": "0.0.1",
+  "keywords": [
+    "grep",
+    "regex",
+    "rgrep",
+    "reverse-regex",
+    "string"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
